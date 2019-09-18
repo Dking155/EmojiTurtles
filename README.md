@@ -1,2 +1,2 @@
 My emoji was a smiley emoji but without the smile
-[Github Logo](/emoji.PNG)
+![Github Logo](/emoji.PNG)
